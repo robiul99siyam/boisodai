@@ -100,13 +100,13 @@ const Order = () => {
             <hr className=" border-black " />
             <div className="bg-[#f3f3f3] rounded-b-md p-7 font-bold text-start flex ">
               <div className="flex-1">
-                <h1>দ্য গ্রেটেস্ট অন্ট্রাপ্রেনর মুহাম্মাদ (#29531)</h1>
+                <h1 className="text-sm">দ্য গ্রেটেস্ট অন্ট্রাপ্রেনর মুহাম্মাদ (#29531)</h1>
               </div>
               <div className="flex-1 flex justify-between cursor-pointer">
                 <div className="flex items-center">
-                    <p className="border px-3">-</p>
-                    <p className="border px-3">1</p>
-                    <p className="border px-3">+</p>
+                  <p className="border px-3">-</p>
+                  <p className="border px-3">1</p>
+                  <p className="border px-3">+</p>
                 </div>
                 <p>480.00৳</p>
               </div>
